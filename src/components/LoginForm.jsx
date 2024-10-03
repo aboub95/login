@@ -16,7 +16,7 @@ const LoginForm = () => {
     // Simulez une logique de connexion ici
     if (email && name) {
       login();
-      console.log(${'yuyuyu'});
+ 
       
       setSuccess(
         "Connexion réussie ! Vous serez redirigé vers le tableau de bord."
